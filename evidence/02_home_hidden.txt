@@ -1,0 +1,16 @@
+total 60
+drwxr-x--- 10 irajtaimurmalik irajtaimurmalik 4096 Oct 16 07:28 .
+drwxr-xr-x  3 root            root            4096 Sep 17 14:39 ..
+-rw-------  1 irajtaimurmalik irajtaimurmalik  820 Oct 10 16:25 .bash_history
+-rw-r--r--  1 irajtaimurmalik irajtaimurmalik  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 irajtaimurmalik irajtaimurmalik 3771 Feb 13  2026 .bashrc
+drwx------  2 irajtaimurmalik irajtaimurmalik 4096 Sep 17 14:52 .cache
+-rw-rw-r--  1 irajtaimurmalik irajtaimurmalik  189 Oct 16 07:27 .gitconfig
+drwx------  3 irajtaimurmalik irajtaimurmalik 4096 Oct 10 17:08 .local
+-rw-r--r--  1 irajtaimurmalik irajtaimurmalik  807 Feb 13  2026 .profile
+drwx------  2 irajtaimurmalik irajtaimurmalik 4096 Oct 16 07:26 .ssh
+drwxrwxr-x  3 irajtaimurmalik irajtaimurmalik 4096 Oct 10 18:08 Assignment01
+drwxrwxr-x  4 irajtaimurmalik irajtaimurmalik 4096 Oct 10 12:45 CC
+drwxrwxr-x  3 irajtaimurmalik irajtaimurmalik 4096 Oct 10 16:34 Gitea
+drwxrwxr-x  5 irajtaimurmalik irajtaimurmalik 4096 Oct 16 07:29 lab05-linux
+drwxrwxr-x  2 irajtaimurmalik irajtaimurmalik 4096 Sep 18 15:36 mylab
